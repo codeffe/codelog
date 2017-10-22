@@ -107,6 +107,18 @@ In alphabetic order.
        </p>
     </td>
   </tr>
+ <tr>
+   <td>
+     <img width="300px" src="http://www.numfocus.org/uploads/6/0/6/9/60696727/8386978.png?106">
+   </td>
+   <td>
+      <h1>Stan</h1>
+      <p>Stan is a probabilistic programming language for data analysis, enabling automatic inference for a large class of statistical models. It features full Bayesian inference with Markov chain Monte Carlo sampling, approximate Bayesian inference with variational inference and the Laplace approximation, and penalized maximum likelihood estimation with optimization. The language integrates a Math Library written in C++, which can act as a stand-alone, and features derivatives for arithmetic, special functions, probability functions, and linear algebra.</p>
+      <p>
+        <a href="http://mc-stan.org/">Website</a> | <a href="http://discourse.mc-stan.org">discourse</a> 
+      </p>
+   </td>
+ </tr>
 
 </table>
 

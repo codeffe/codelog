@@ -19,7 +19,7 @@
 
 -   How many potential mentors have agreed to mentor this year?
 
-    11-15
+    xx-xx
 
 -   How will you keep mentors engaged with their students?
 
@@ -86,11 +86,11 @@
 
 -   Which years did your org participate in GSoC?
 
-    2015, 2016
+    2015, 2016, 2017
 
 -   What is your success/fail rate per year?
 
-    2015: 3/3, 2016: 7/7
+    2015: 3/3, 2016: 7/7, 2017: 10/12
 
 -   Are you part of a foundation/umbrella organization?
 
@@ -134,7 +134,7 @@
 
 -   Ideas List
 
-    https://github.com/numfocus/gsoc/blob/master/2017/ideas-list.md
+    https://github.com/numfocus/gsoc/blob/master/2018/ideas-list.md
 
 ## Descriptions
 
@@ -159,7 +159,7 @@
 
 -   Proposal Tags
 
-    - don't provide them
+    - list orgs
 
 ## Contact Methods
 

@@ -31,7 +31,7 @@ The **organization administrators** are responsible for
 You can use google forms to sign up mentors who want to work with NumFOCUS. This
 will have the advantage that we automatically have a list of all mentors and
 their contact information. Mentors should be given access to numfocus mentoring
-mailing list.
+mailing list. Please ask the NumFOCUS admins for a link to the mentor signup form.
 
 ## Timeline for Organization Administrators
 
